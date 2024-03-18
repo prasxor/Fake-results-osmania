@@ -132,6 +132,11 @@ const gpaValue = document.getElementById("gpa");
 const course_details = "BCA(CBCS)";
 const medium_details = "ENGLISH";
 function inputTag() {
+  let classChange = document.getElementById('studentData');
+  classChange.classList.remove("hiddenStudentData");
+  classChange.classList.add("studentData");
+
+
   const gender_male = "MALE";
   const gender_Female = "Female";
   const gender = document.getElementById("gender");
