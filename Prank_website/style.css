@@ -1,0 +1,177 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 100%;
+  height: 130vh;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* border: 1px solid red; */
+  background-color: rgb(250, 240, 216);
+  font-family: "Helvetica", sans-serif;
+}
+
+.main_container {
+  padding-top: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  /* border: 1px solid green; */
+  height: 80%;
+  width: 80%;
+  flex-wrap: wrap;
+  flex-direction: column;
+  background-color: #fff;
+}
+
+.first_main_container_p {
+  /* border: 1px solid black; */
+  margin-bottom: 30px;
+  font-size: 1.5rem;
+}
+
+.search_container {
+  flex-direction: row;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* border: 1px solid red; */
+  width: 100%;
+  height: 50px;
+}
+
+.studentData {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* border: 1px solid blue; */
+  height: 80%;
+  width: 100%;
+  flex-direction: column;
+}
+
+/* .studentData_profile {
+  border: 1px solid green;
+  height: 40%;
+  width: 100%;
+} */
+
+.studentData_subjects {
+  /* border: 1px solid red; */
+  height: 70%;
+  width: 100%;
+}
+
+.studentData_gpa {
+  height: 200px;
+}
+
+.studentData_gpa,
+.studentData_profile {
+  width: 100%;
+  height: 130px;
+  /* border: 2px solid green; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.studentData_profile table {
+  width: 100%;
+  height: 110px;
+  border: 2px solid black;
+  text-align: center;
+  font-weight: 700;
+  border-collapse: collapse;
+}
+
+.studentData_profile table th {
+  border: 2px solid black;
+  background-color: #ecc987;
+  border: none;
+  padding: 0;
+  margin: 0;
+  font-weight: bolder;
+}
+
+.studentData_gpa table {
+  width: 100%;
+  height: 100%;
+  border: 2px solid black;
+  text-align: center;
+  font-weight: 700;
+  border-collapse: collapse;
+}
+
+.studentData_gpa table th {
+  border: 2px solid black;
+  background-color: #ecc987;
+  border: none;
+  padding: 0;
+  margin: 0;
+  font-weight: bolder;
+}
+
+.studentData_gpa table tr:nth-child(2) {
+  background-color: #faf0d6;
+}
+
+.secondColor td {
+  background-color: #faf0d6;
+}
+
+.secondColor {
+  background-color: #faf0d6;
+}
+/* studentData_subjects */
+
+.studentData_subjects {
+  width: 100%;
+  height: 100%;
+  border: 2px solid green;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.studentData_subjects table {
+  width: 100%;
+  height: 100%;
+  border: 2px solid black;
+  text-align: center;
+  font-weight: 700;
+  border-collapse: collapse;
+}
+
+.studentData_subjects table th {
+  border: 2px solid black;
+  background-color: #ecc987;
+  border: none;
+  padding: 0;
+  margin: 0;
+  font-weight: bolder;
+}
+
+.print_page {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 150px;
+  padding: 10px;
+}
+
+.print_page p {
+  color: #877edd;
+  margin-bottom: 20px;
+}
+
+.print_page button {
+  height: 35px;
+  width: 100px;
+  font-size: 1.1rem;
+}
