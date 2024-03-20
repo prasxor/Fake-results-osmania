@@ -144,7 +144,7 @@ let paperCode05 = document.getElementById("paper_id05");
 
 const Subject01 = "Effective Communication";
 const Subject02 = "Mathematical Foundations of Computer Science";
-const Subject03 = "Effective Communication";
+const Subject03 = "Digital principles";
 const Subject04 = "Programming in C";
 const Subject05 = "Introduction to Web Technology";
 // targeting subjects by id
