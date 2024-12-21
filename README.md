@@ -33,7 +33,7 @@ This project is a humorous and creative attempt to mimic the official Osmania Un
 1. Clone the repository:
     
     ```bash
-    git clone https://github.com/your-github-username/fake-results-osmania.git
+    git clone https://github.com/prasxor/ou_result_prank.git
     ```
     
 2. Navigate to the project directory:
@@ -48,10 +48,10 @@ This project is a humorous and creative attempt to mimic the official Osmania Un
 
 Here’s a quick preview of the fake results page in action:
 
-!https://chatgpt.com/c/demo-screenshot.png
+![image](https://github.com/user-attachments/assets/5bd0670f-f6bb-4d2c-9e10-0d94dcd6500c)
 
-> Note: Replace the placeholder above with an actual screenshot if needed.
-> 
+![image](https://github.com/user-attachments/assets/621fafb6-0bcc-4ea1-bfaa-a5dbb63c7dac)
+
 
 ## Disclaimer
 
