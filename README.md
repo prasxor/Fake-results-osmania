@@ -33,7 +33,7 @@ This project is a humorous and creative attempt to mimic the official Osmania Un
 1. Clone the repository:
     
     ```bash
-    git clone https://github.com/prasxor/ou_result_prank.git
+    git clone https://github.com/prasxor/Fake-results-osmania.git
     ```
     
 2. Navigate to the project directory:
