@@ -59,7 +59,8 @@ var userCollection = {
   105523861058: "syed yadullah",
   105523861059: "ubaid ur rahman",
   105523861060: "wajeeda zainub",
-  603223861004 : "Books Vishnu Teja",
+  603223861004 : "B. Vishnu Teja",
+  105524861030 : "Shehzan Nizami",
 };
 
 const userCollectionNO = {
