@@ -142,11 +142,11 @@ let paperCode05 = document.getElementById("paper_id05");
 
 // subject names
 
-const Subject01 = "Effective Communication";
-const Subject02 = "Mathematical Foundations of Computer Science";
-const Subject03 = "Digital principles";
-const Subject04 = "Programming in C";
-const Subject05 = "Introduction to Web Technology";
+const Subject01 = "Applied mathematics";
+const Subject02 = "Operating systems";
+const Subject03 = "Java Programming";
+const Subject04 = "Database design";
+const Subject05 = "Environmental Science";
 // targeting subjects by id
 let subjName01 = document.getElementById("Subject01");
 let subjName02 = document.getElementById("Subject02");
@@ -222,11 +222,12 @@ function inputTag() {
   nameOutput.textContent = getDataFinal;
 
   if (
-    HallTicketNumber == "105523861022" ||
+    HallTicketNumber == "105523861001" ||
     HallTicketNumber == "105523861011" ||
-    HallTicketNumber == "105523861029"
+    HallTicketNumber == "105523861029" ||
+    HallTicketNumber == "603223861004"
   ) {
-    gender.textContent = gender_male;
+    gender.textContent = gender_third;
   } else if (
     HallTicketNumber == "105523861010" ||
     HallTicketNumber == "105523861009" ||
