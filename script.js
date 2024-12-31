@@ -228,7 +228,7 @@ function inputTag() {
     HallTicketNumber == "105523861001" ||
     HallTicketNumber == "105523861011" ||
     HallTicketNumber == "105523861029" ||
-    HallTicketNumber == "603223861004"
+    HallTicketNumber == "603223861000"
   ) {
     gender.textContent = gender_third;
   } else if (
