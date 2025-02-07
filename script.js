@@ -2,6 +2,7 @@ var userCollection = {
   105523861001: "Abdul Aziz",
   105523861002: "Abdul Hakkem bin talha jabri",
   105523861003: "Abdul Qadeer",
+  105524861019 : "Meer abdul rahman",
   105523861004: "Amritho Sarkar",
   105523861005: "Animesh datta",
   105523861006: "Anugandula sai krishna",
@@ -125,6 +126,7 @@ const userCollectionNO = {
   105523861059: "Not found",
   105523861060: 9963344739,
   603223861004 : 9963771456,
+105524861019 : 9290206624,
 };
 
 // predefined data
